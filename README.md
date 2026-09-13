@@ -4,4 +4,4 @@ Author - Suhani Rout
 <br>
 This is my second Git repository.
 <br>
-Author - Suhani Rout
+Author - Suhani (from college)
